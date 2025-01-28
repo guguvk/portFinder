@@ -6,7 +6,7 @@
 ## Requirements
 
 >[!IMPORTANT]
-> Debes tener previamente instalada la libreria `pwntools`, para instalarla de manera oficial en el siguiente [enlace](https://docs.pwntools.com/en/stable/install.html)
+> Debes tener previamente instalada la libreria `pwntools` (**pip3 install scapy**)
 
 ## Preview
 
