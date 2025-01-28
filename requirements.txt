@@ -1,1 +1,1 @@
-scapy==2.5.0
+pwntools==4.13.1
